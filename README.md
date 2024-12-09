@@ -1,0 +1,1 @@
+This repository demonstrates a common yet elusive bug in Firebase Authentication: silent failures.  The code includes examples of scenarios where invalid email formats or network problems prevent successful authentication without providing informative error messages.  A solution is provided to handle these scenarios gracefully and improve the user experience.
