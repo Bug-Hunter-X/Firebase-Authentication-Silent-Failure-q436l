@@ -1,0 +1,1 @@
+The Firebase Authentication SDK may throw an unexpected error if the user's email is not properly formatted or if there is a network connectivity issue during the authentication process.  This can lead to silent failures where the authentication process does not complete and no error is explicitly reported to the application.
